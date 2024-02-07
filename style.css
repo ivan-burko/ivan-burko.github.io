@@ -1,40 +1,43 @@
-body{
+.daaa {
+  font-family: "Oswald", sans-serif;
 
-    font-family: 'M PLUS Rounded 1c', sans-serif;
-    color:black
-
+  width: auto;
+  height: 500px;
+  background-color: rgb(119, 119, 119);
+  font-size: large;
+  text-shadow: 2cm;
 }
 
+.sa {
+  scroll-margin-left: 225px;
+  font-family: "Oswald", sans-serif;
 
-
-
-.hello{
-    margin:0;
-    width:100;
-    height:200px;
-    background-color: rgb(32, 109, 109);
-
-
+  background-color: rgb(119, 119, 119);
+  font-size: large;
+  text-shadow: 100cm;
 }
 
-
-
-.projects{
-
-    top:0;
-    width:100%;
-    height:300px;
-    background-color: rgb(101, 156, 147);
-
-
-
+.main-image {
+  width: 320px;
+  height: 320px;
 }
 
+.divtwo {
+  font-family: "Oswald", sans-serif;
+  font-family: "Passion One", sans-serif;
+  width: auto;
+  height: 960px;
+  background-color: rgb(69, 63, 63);
+}
 
-.small_font{
+.videos {
+  width: 350px;
+  height: auto;
+}
 
-    font-size: 24px;
-
-
-
+.div3 {
+  width: auto;
+  height: 400px;
+  background-color: black;
+  color: white;
 }
